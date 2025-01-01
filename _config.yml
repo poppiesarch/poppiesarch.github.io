@@ -21,7 +21,7 @@ repository               : "poppiesarch/poppiesarch.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/dcy.png"
+  avatar           : "dcy.png"
   name             : "Chenyang Deng"
   pronouns         : # example: "she/her"  
   bio              : "The warm smile, if the quality."
