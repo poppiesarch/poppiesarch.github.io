@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "证件蓝.png"
+  avatar           : "dcy.png"
   name             : "Chenyang Deng"
   pronouns         : # example: "she/her"  
   bio              : "The warm smile, if the quality."
